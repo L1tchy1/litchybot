@@ -23,10 +23,10 @@ client.on('ready', () => {
 });
 
 
-const voiceChannelId = '1321172630757310516';
-const staffChannelID = '1339207954360172575';
-const staffRoleID = '1323676350644621396';
-const audioFilePath = './support.mp3'; 
+const voiceChannelId = '1342984534186262601';
+const staffChannelID = '1342984608815255682';
+const staffRoleID = '1342472695228399626';
+const audioFilePath = './support.mp3';
 
 
 client.on('voiceStateUpdate', (oldState, newState) => {
